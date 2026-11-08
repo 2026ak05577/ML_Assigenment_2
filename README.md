@@ -74,7 +74,3 @@ streamlit run app.py
 2. In Streamlit Community Cloud, create an app from that repository and select `app.py` as the entry point.
 3. Wait for the app to finish building, then verify the public URL in a private browser window.
 4. Replace the repository placeholder above and add the live app URL here: **TODO - paste your deployed Streamlit Community Cloud URL.**
-
-## BITS Virtual Lab evidence and submission PDF
-
-Run the experiment in BITS Virtual Lab and capture your own screenshot there. Include one screenshot in the PDF, along with this README content, the working GitHub repository URL, and the working Streamlit app URL in the assignment's required order. The screenshot and the two public URLs must be supplied by the student; they cannot be generated from this workspace.
