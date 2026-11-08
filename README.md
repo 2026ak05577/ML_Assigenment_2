@@ -12,7 +12,7 @@ The experiment uses a stratified 75/25 train/test split with random seed 37. Sca
 
 ## c. GitHub Repository Link
 
-**Repository:** TODO - replace this text with your public GitHub repository URL after pushing the project.
+**Repository:** [ML_Assigenment_2](https://github.com/2026ak05577/ML_Assigenment_2)
 
 ## d. Models used and evaluation
 
