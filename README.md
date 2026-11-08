@@ -67,10 +67,3 @@ streamlit run app.py
 ```
 
 `train_models.py` needs internet access to fetch the source dataset. It creates the five model artifacts, `model/metrics.json`, and the labeled held-out `test_data.csv`. The app starts with that bundled test CSV; a user can instead upload a CSV containing all 16 feature columns and the `Class` target column. The app displays metrics and a confusion matrix and allows downloading predictions. Uploaded rows are never used to fit a model.
-
-## Deploy on Streamlit Community Cloud
-
-1. Push this folder, including the `model/` artifacts, `test_data.csv`, `requirements.txt`, and this README, to your GitHub repository.
-2. In Streamlit Community Cloud, create an app from that repository and select `app.py` as the entry point.
-3. Wait for the app to finish building, then verify the public URL in a private browser window.
-4. Replace the repository placeholder above and add the live app URL here: **TODO - paste your deployed Streamlit Community Cloud URL.**
